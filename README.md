@@ -17,3 +17,5 @@ To Use:
 
 P.S. - Originally developed for my sister who played the game.
 
+![display](https://user-images.githubusercontent.com/24804326/138356182-8dbd7b7c-b7d5-402c-b8bc-3134e3f28807.png)
+
