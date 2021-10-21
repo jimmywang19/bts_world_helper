@@ -1,8 +1,8 @@
 Bts World Helper is a GUI program that calculates the best cards (that you own) for each level.
 
 How to download:
-1. Download Bts.exe and bts.ico and put both into the same folder.
-2. Then run Bts.exe
+1. Download Bts.exe/Bts.pyw and bts.ico and put both into the same folder.
+2. Then run Bts.exe/Bts.pyw
 
 
 To Use:
